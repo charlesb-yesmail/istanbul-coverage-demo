@@ -1,0 +1,21 @@
+{
+  "name": "istanbul-coverage-demo",
+  "description": "Istanbul Code Coverage &amp; Kraken.JS demo",
+  "main": "index.js",
+  "author": "Charles Berger",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.1.16"
+  }
+}
